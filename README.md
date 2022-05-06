@@ -3,6 +3,7 @@
 the piano will not work on a google tab but will work on any other tab like github.com
 
 ##HOW TO INSTALL
+
 make a bookmark with this url down below and click on it
 
 
